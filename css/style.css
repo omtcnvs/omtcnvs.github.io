@@ -18,7 +18,18 @@
   border-radius: 100%;
 }
 
-section {
-  width: 100vjh;
-  height: 100vh;
+.url-icons {
+  width: 2em;
+}
+
+.tech-icons {
+  width: 2.5em;
+  margin-right: 2em;
+  margin-left: 2em;
+}
+
+.pipe {
+  background: #ccc;
+  height: 2.5em;
+  width: 0.05em;
 }
